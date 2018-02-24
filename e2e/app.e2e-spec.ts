@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('bimlsyntax App', () => {
+describe('biml-editor App', () => {
   let page: AppPage;
 
   beforeEach(() => {
