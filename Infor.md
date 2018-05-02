@@ -1,0 +1,2 @@
+1. Currently MonacoEditor is being loaded to the project with the help of monaco-editor-loader. There are plans on finding a new way of uploading.
+2. Currently monaco-laguageservice is being able to be used because types in vscode-languageserver-node is being compiled separately with CJS ranther than the default by VScode that is UMD. Will have to keep an eye open for that.
